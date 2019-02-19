@@ -7,24 +7,13 @@
     box-sizing: border-box;
 }
 
-body {
-    height: 100vh;
-    background-color: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-}
-
 #container {
-    width: 70%;
-    height: 70vh;
+    width: 100vw;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
-    border-radius: 20px;
-    box-shadow: 5px 5px 50px #000;
 }
 
 #container label {
